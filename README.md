@@ -35,21 +35,21 @@ Welcome to the genai repository! This project includes tools and scripts for var
 
 To run the text generation model:
 ```bash
-python app.py
+streamlit run app.py
 ```
 
-### Q&A Chat
+### QA Chat
 
 To run the chatbot using the Google Gemini text-to-text model with chat history:
 ```bash
-python Q&achat.py
+streamlit run Qachat.py
 ```
 
 ### Image Summarization
 
 To run the image-to-text model for summarizing images:
 ```bash
-python vision.py
+streamlit run vision.py
 ```
 
 ## Features

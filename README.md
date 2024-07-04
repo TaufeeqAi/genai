@@ -1,7 +1,3 @@
-Here is an updated README file based on the provided details:
-
----
-
 # genai
 
 Welcome to the genai repository! This project includes tools and scripts for various AI tasks, including text generation, chat-based Q&A, and image summarization, all integrated into a user-friendly Streamlit UI.
@@ -72,5 +68,3 @@ Contributions are welcome! Please open an issue or submit a pull request.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to adjust this README to include any additional details specific to your project.
